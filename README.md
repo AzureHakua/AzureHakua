@@ -16,12 +16,12 @@ My diverse experience has shaped my approach to software development:
 This combination gives me a unique perspective on building technology that serves both business needs and end users.
 
 ## Tech Stack
-**Languages:** JavaScript, C++, Python, Java
-**Frontend:** HTML, CSS, React, htmx, Tailwind CSS
-**Backend:** Node.js, Bun, Elysia.js (Bun framework)
-**Databases:** MongoDB, SQLite, Turso, libSQL
-**Cloud & Deployment:** AWS, Cloudflare, Fly.io, Docker
-**Tools:** Git, VS Code
+**Languages:** JavaScript, C++, Python, Java  
+**Frontend:** HTML, CSS, React, htmx, Tailwind CSS  
+**Backend:** Node.js, Bun, Elysia.js (Bun framework)  
+**Databases:** MongoDB, SQLite, Turso, libSQL  
+**Cloud & Deployment:** AWS, Cloudflare, Fly.io, Docker  
+**Tools:** Git, VS Code  
 
 ## Featured Projects
 - ⭐ **Game Equipment Database** *(Active Development)* - Full-stack web application with custom REST API for managing game equipment data. Built with Bun/Elysia.js backend, Turso database, and frontend interface. Deployed on Fly.io with custom domain routing through Cloudflare. [Live Demo](https://hi3.azurehakua.moe/stigmata) | [Github](https://github.com/AzureHakua/hi3-db)
