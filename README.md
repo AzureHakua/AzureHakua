@@ -3,7 +3,7 @@
 ## About Me
 🎓 Recent Computer Science graduate with a unique background spanning healthcare and business  
 🏥 Former technical assistant at Mass General Hospital Voice Center  
-☕ Managed operations at a boba shop startup  
+☕ Managed operations at Boba Me, a boba shop startup  
 💻 Passionate about leveraging technology to solve real-world problems  
 🌱 Currently expanding my skills in full stack development and reverse engineering
 
